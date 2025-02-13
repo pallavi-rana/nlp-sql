@@ -1,0 +1,6 @@
+transaction_id,order_id,amount,payment_method,status,transaction_date
+301,201,1200.99,Credit Card,Completed,2025-02-11
+302,202,1399.00,PayPal,Completed,2025-02-06
+303,203,179.97,Debit Card,Failed,2023-12-21
+304,204,249.99,Credit Card,Completed,2025-02-13
+305,205,99.98,UPI,Pending,2024-02-11

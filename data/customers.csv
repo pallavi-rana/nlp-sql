@@ -1,0 +1,6 @@
+customer_id,name,email,age,city,signup_date
+101,John Doe,johndoe@example.com,28,New York,2023-05-15
+102,Jane Smith,janesmith@example.com,34,San Francisco,2022-09-12
+103,Robert Brown,robertbrown@example.com,40,Los Angeles,2021-07-08
+104,Emily Davis,emilydavis@example.com,25,Chicago,2023-01-20
+105,Michael Johnson,michaelj@example.com,45,Houston,2020-11-03
