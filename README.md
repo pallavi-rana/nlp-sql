@@ -35,7 +35,7 @@ python src/utils/s3_helper.py
 ```
 
 ### **4️. Run the App**  
-#### ** Option 1: Run via CLI**
+#### **Option 1: Run via CLI**
 ```sh
 python src/main.py
 ```
