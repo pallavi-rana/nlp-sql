@@ -1,4 +1,4 @@
-# NLP to SQL Query Generator using AWS
+# Natural Language to SQL Query Generator using AWS
 
 This project allows users to enter **natural language queries**, which are then **converted into SQL using Amazon Bedrock** and executed using **AWS Athena**. The results are fetched and displayed via a **Streamlit UI**.
 
